@@ -23,7 +23,7 @@ Sign up for free credits, follow the [**instructions**](https://github.com/Squir
 
 import os
 
-os.environ['NVIDIA_API_KEY'] = "Your Api Key"
+os.environ['NVIDIA_API_KEY'] = "NVIDIA_API_KEY"
 
 """This notebook demonstrates how to use LangChain(https://python.langchain.com/docs/get_started/introduction) and NVIDIA AI Foundation Models to build a chatbot that references a custom knowledge-base.
 
